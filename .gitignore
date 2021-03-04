@@ -1,0 +1,17 @@
+target/
+!sso-server/.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+.DS_Store
+*.iws
+*.iml
+*.ipr
